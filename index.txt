@@ -2,5 +2,5 @@
 <head>
 This is a merge conflict example
 <body>
-b1 changes
+b2 changes
 </html>
