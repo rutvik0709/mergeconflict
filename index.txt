@@ -1,0 +1,6 @@
+<html>
+<head>
+This is a merge conflict example
+<body>
+master changes
+</html>
